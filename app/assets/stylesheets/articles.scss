@@ -1,0 +1,51 @@
+// Place all the styles related to the articles controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+.navbar-lewagon {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: #eaeaea;
+  padding: 16px 24px;
+}
+
+.navbar-lewagon .brand {
+  width: 40px;
+}
+
+.navbar-lewagon .navbar-lewagon-actions {
+  display: flex;
+  align-items: center;
+}
+
+.navbar-lewagon .navbar-lewagon-actions .navbar-lewagon-link {
+  margin-left: 24px;
+  color: #999999;
+}
+.navbar-lewagon .navbar-lewagon-actions .navbar-lewagon-link:hover {
+  color: #151515;
+}
+
+
+.navbar-lewagon .navbar-lewagon-actions .avatar {
+  margin-left: 24px;
+}
+
+.navbar-lewagon .dropdown-toggle {
+  cursor: pointer;
+}
+.avatar {
+  width: 40px;
+  border-radius: 50%;
+}
+
+.articles {
+  margin-top: 20px;
+}
+
+ul {
+  list-style: none;
+}
+ .articles li {
+  margin: 15px 10px;
+ }
